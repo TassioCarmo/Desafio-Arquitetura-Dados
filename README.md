@@ -15,7 +15,12 @@ Dentro da política de expansão e geração de negócios, o Board de acionistas
 - Fornecedores
   
 Países E, a modelagem que existe nesta aplicação está disponível no ERP_SUPREMEATS.PDF Com base nestas informações, o nosso trabalho será aplicar tudo o que aprendemos nos módulos e “operacionalizar” a solução de Analytics e Data Science da Consultix Foods.
-Agora que aprendemos sobre Arquitetura, como a Ciência de Dados transforma empresas, como resolvemos velhos problemas de novas formas e sobre os Frameworks existentes, nosso trabalho será montar uma visão da arquitetura que poderíamos utilizar na Consultix Foods com 2 opções para apresentar ao board de diretores:  a 1ª utilizando o modelo on-premise  a 2ª usando um modelo Cloud (IAAS, SAAS, PAAS). Isto é necessário para que eles possam selecionar qual das opções querem “implementar”, mas procure não ser tão técnico e ao mesmo tempo não ser tão superficial pois na sala tem executivos que são técnicos e outros que tem conhecimento mais de negócio! Uma dica importante, devemos nos basear nas aulas acima e no PDF do ERP que dispomos, para que possamos criar esta arquitetura e com ela ter uma arquitetura que permita atender as necessidades de informação que eles possam necessitar e, também, gerar os insights importantes ao Board. E, finalmente devemos ao apresentar ao Board, explicar:
+Agora que aprendemos sobre Arquitetura, como a Ciência de Dados transforma empresas, como resolvemos velhos problemas de novas formas e sobre os Frameworks existentes, nosso trabalho será montar uma visão da arquitetura que poderíamos utilizar na Consultix Foods com 2 opções para apresentar ao board de diretores: 
+
+- a 1ª utilizando o modelo on-premise
+- a 2ª usando um modelo Cloud (IAAS, SAAS, PAAS).
+
+Isto é necessário para que eles possam selecionar qual das opções querem “implementar”, mas procure não ser tão técnico e ao mesmo tempo não ser tão superficial pois na sala tem executivos que são técnicos e outros que tem conhecimento mais de negócio! Uma dica importante, devemos nos basear nas aulas acima e no PDF do ERP que dispomos, para que possamos criar esta arquitetura e com ela ter uma arquitetura que permita atender as necessidades de informação que eles possam necessitar e, também, gerar os insights importantes ao Board. E, finalmente devemos ao apresentar ao Board, explicar:
 
 - A visão de contexto;
 - A visão funcional;

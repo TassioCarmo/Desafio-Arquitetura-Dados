@@ -3,7 +3,7 @@
 
 ## Contexto
 
-Dentro da política de expansão e geração de negócios, o Board de acionistas da Consultix decidiu investir no setor de Varejo e Ecommerce. Para isto decidiu adquirir uma empresa que opera globalmente, a SupremEats, e após fechado o negócio, definiram que o novo nome será Consultix Foods. A nossa equipe de ciência de dados formada por analistas, engenheiros e cientistas de dados foi chamada para várias reuniões. Nelas tivemos oportunidade de conhecer esta operação e como estão montadas as soluções de tecnologia, mas, durante estas reuniões percebemos que empresa antiga não possuía uma solução de Analytics, e muito menos Ciência de Dados, e, para que possamos crescer ainda mais teremos que criar uma solução capaz de suportar a operação desta nova empresa e gerar importantes insights para nossos acionistas. Toda operação está apoiada por um “ERP Caseiro” desenvolvido em Access (Microsoft) que foca em transações operacionais. Esta solução possui as seguintes bases:
+Dentro da política de expansão e geração de negócios, o Board de acionistas da Lyber decidiu investir no setor de Varejo e Ecommerce. Para isto decidiu adquirir uma empresa que opera globalmente, a SupraEats, e após fechado o negócio, definiram que o novo nome será Lyber Foods. A nossa equipe de ciência de dados formada por analistas, engenheiros e cientistas de dados foi chamada para várias reuniões. Nelas tivemos oportunidade de conhecer esta operação e como estão montadas as soluções de tecnologia, mas, durante estas reuniões percebemos que empresa antiga não possuía uma solução de Analytics, e muito menos Ciência de Dados, e, para que possamos crescer ainda mais teremos que criar uma solução capaz de suportar a operação desta nova empresa e gerar importantes insights para nossos acionistas. Toda operação está apoiada por um “ERP Caseiro” desenvolvido em Access (Microsoft) que foca em transações operacionais. Esta solução possui as seguintes bases:
 
 - Categoria dos Produtos
 - Clientes
@@ -21,4 +21,4 @@ Agora que aprendemos sobre Arquitetura, como a Ciência de Dados transforma empr
 - A visão funcional;
 - A visão de implantação. Deveremos, ainda, tocar e oferecer respostas as
 - Quais os pilares que foram levados em consideração na montagem desta arquitetura?
-- E busque explicar o que cada um deles trará de benefícios e resultados a nova empresa (a Consultix Foods)! Vamos lá, este é o desafio.
+- E busque explicar o que cada um deles trará de benefícios e resultados a nova empresa (a Lyber Foods)! Vamos lá, este é o desafio.
